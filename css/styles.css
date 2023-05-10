@@ -69,8 +69,9 @@
     color: #E24C2A;
 }
 
-.text-primary:hover {
+.hover\:text-primary:hover {
     color: #E24C2A;
+    background-color: #E24C2A;
 }
 
 
