@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xlmns="https://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://levist.de/</loc>
+        <lastmod>2023-06-19T09:03:26+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://levist.de/organizer.html</loc>
+        <lastmod>2023-06-19T09:03:26+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://levist.de/privacy.html</loc>
+        <lastmod>2023-06-19T09:07:00+00:00</lastmod>
+        <priority>0.40</priority>
+    </url>
+    <url>
+        <loc>https://levist.de/imprint.html</loc>
+        <lastmod>2023-06-19T09:03:26+00:00</lastmod>
+        <priority>0.40</priority>
+    </url>
+
+</urlset>
