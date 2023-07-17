@@ -3,12 +3,12 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://levist.de/</loc>
-        <lastmod>2023-06-19T09:03:26+00:00</lastmod>
+        <lastmod>2023-07-17T09:03:26+00:00</lastmod>
         <priority>1.00</priority>
     </url>
     <url>
         <loc>https://levist.de/organizer.html</loc>
-        <lastmod>2023-06-19T09:03:26+00:00</lastmod>
+        <lastmod>2023-07-17T09:03:26+00:00</lastmod>
         <priority>0.80</priority>
     </url>
     <url>
